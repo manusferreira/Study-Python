@@ -1,3 +1,5 @@
 class PrograMariaRoteiro:
     def __init__(self):
-        self.topicos 
+        self.topicos ={
+            
+        }
