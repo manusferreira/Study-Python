@@ -1,7 +1,15 @@
 class PrograMariaRoteiro:
     def __init__(self):
         self.topicos ={
-            "Módulo 1":[
-
-            ]
+            'Módulo 1':[
+                'Bem-vinde a bordo da nave Eu ProgrAmo! ',
+                'Boas-vindas do time PrograMaria',
+                'Manual de Bordo',
+                'Queremos te conhecer melhor!',
+                'Qual personagem escolheu você?',
+                'ora de conhecer a tripulação que estará nessa missão com você! ',
+                'Conexão Potências | Vamos aumentar ainda mais a nossa rede?!',
+                'Feedback'
+            ],
+            
         }
