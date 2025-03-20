@@ -18,5 +18,7 @@ class PrograMariaRoteiro:
                 'Entendendo o que são dados',
                 'Exercício de Revisão: O que são dados?',
                 'Nossa primeira análise: Analisando distribuição de raça e gênero',
+                'Fça você mesmo: Agrupando os dasdos',
+                
             ]
         }
