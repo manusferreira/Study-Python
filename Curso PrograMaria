@@ -22,6 +22,10 @@ class PrograMariaRoteiro:
                 'If-else: Usando a planilha de Excel',
                 'Exercício de código : if - else',
                 'Existem pessoas gestoras do gênero feminino em dados?',
-                ''
+                'Exercício de Código: Cruzamento de Dados',
+                'Feedback'
+            ],
+            'Módulo 3':[
+                
             ]
         }
