@@ -11,4 +11,7 @@ class PrograMariaRoteiro:
                 'Conexão Potências | Vamos aumentar ainda mais a nossa rede?!',
                 'Feedback'
             ],
+            'Módulo 2':[
+                ''
+            ]
         }
