@@ -29,7 +29,8 @@ class PrograMariaRoteiro:
                 'Instalando o Python',
                 'O que é Python? Conhecendo a linguagem',
                 'Exercício de código | Olá Mundo',
-                ''
+                'Nosso primeiro algoritmo (parte 1)',
+                
                 
             ]
         }
