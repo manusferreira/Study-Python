@@ -26,6 +26,9 @@ class PrograMariaRoteiro:
                 'Feedback'
             ],
             'Módulo 3':[
+                'Instalando o Python',
+                'O que é Python? Conhecendo a linguagem',
+                ''
                 
             ]
         }
