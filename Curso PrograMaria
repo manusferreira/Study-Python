@@ -42,7 +42,9 @@ class PrograMariaRoteiro:
                 'Exercício de Revisão | Funções',
                 'Repetindo a primeira análise parte 2',
                 'Exercício de código | Repetindo a primeira análise parte 2',
+                'Feedback'                     
+            ],
+            'Módulo 4':[
                 ''
-                
             ]
         }
