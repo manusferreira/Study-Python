@@ -35,6 +35,8 @@ class PrograMariaRoteiro:
                 'Exercício d.e código | Primeiro algoritmo parte 2',
                 'Entendendo o Jupyter',
                 'Uso de bibliotecas de Python (pandas) - Lendo e entendendo nossos dados',
+                'Exercício de código | Lendo e entendendo nossos dados',
+                'Repetindo a primeira análise parte 1',
                 ''
                 
             ]
