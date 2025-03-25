@@ -30,7 +30,8 @@ class PrograMariaRoteiro:
                 'O que é Python? Conhecendo a linguagem',
                 'Exercício de código | Olá Mundo',
                 'Nosso primeiro algoritmo (parte 1)',
-                
+                'Exercício de código | Primeiro algoritmo parte 1',
+                ''
                 
             ]
         }
