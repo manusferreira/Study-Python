@@ -47,6 +47,8 @@ class PrograMariaRoteiro:
             'Módulo 4':[
                 'Estatística Básica',
                 'Exercicio de Código | Estatística',
+                'Fça você mesmo | Estatística',
+                'Tratando valores faltantes - parte 1',
                 ''
             ]
         }
