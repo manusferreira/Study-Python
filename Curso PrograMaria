@@ -51,9 +51,9 @@ class PrograMariaRoteiro:
                 'Tratando valores faltantes - parte 1',
                 'Tratando valores faltantes - parte 2',
                 'Tratando valores faltantes - parte 3',
-                'Exercíci de Código | Valores faltantes',
-                'Exercício de Revisão | Valores faltantes',
-                'Faça você mesmo | Valores faltantes',
-                
+                'Exercíci de Código | Tratando valores faltantes',
+                'Exercício de Revisão | Tratando valores faltantes',
+                'Faça você mesmo | Tratando valores faltantes',
+
             ]
         }
