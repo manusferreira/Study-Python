@@ -58,7 +58,8 @@ class PrograMariaRoteiro:
                 'Tratando valores discrepantes - outlier parte 2',
                 'Exercício de Código | Tratando valores discrepantes',
                 'Exercício de Revisão | Tratando valores discrepantes',
-                ''
-
+                'Intervalo de confiança e distribuição amostral',
+                'Exercício de código | Intervalo de confiança e distribuição amostral'
             ]
+            
         }
