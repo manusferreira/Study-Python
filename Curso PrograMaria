@@ -45,6 +45,7 @@ class PrograMariaRoteiro:
                 'Feedback'                     
             ],
             'Módulo 4':[
+                'Estastística Básica',
                 ''
             ]
         }
