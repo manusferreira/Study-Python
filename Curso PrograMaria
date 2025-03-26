@@ -60,6 +60,9 @@ class PrograMariaRoteiro:
                 'Exercício de Revisão | Tratando valores discrepantes',
                 'Intervalo de confiança e distribuição amostral',
                 'Exercício de código | Intervalo de confiança e distribuição amostral'
+            ],
+            'Módulo 5': [
+                ''
             ]
-            
+
         }
