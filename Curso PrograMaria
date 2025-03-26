@@ -56,8 +56,7 @@ class PrograMariaRoteiro:
                 'Faça você mesmo | Tratando valores faltantes',
                 'Tratando valores discrepantes - outliers parte 1',
                 'Tratando valores discrepantes - outlier parte 2',
-                'Tratando valores discrepantes - outlier parte 3',
-                
+                ''
 
             ]
         }
