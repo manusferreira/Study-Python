@@ -49,6 +49,8 @@ class PrograMariaRoteiro:
                 'Exercicio de Código | Estatística',
                 'Fça você mesmo | Estatística',
                 'Tratando valores faltantes - parte 1',
+                'Tratando valores faltantes - parte 2',
+                'Tratando valores faltantes - parte 3',
                 ''
             ]
         }
