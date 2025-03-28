@@ -61,6 +61,6 @@ class PrograMariaRoteiro:
                 'Intervalo de confiança e distribuição amostral',
                 'Exercício de código | Intervalo de confiança e distribuição amostral'
             ],
-            'Módulo 5': 
+            'Módulo 5': []
 
         }
