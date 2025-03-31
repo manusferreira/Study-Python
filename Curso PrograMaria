@@ -73,6 +73,8 @@ class PrograMariaRoteiro:
                 'Resumo da ópera',
                 'Feedback'
             ],
-            ''
+            'Módulo 6': [
+                ''
+            ]
 
         }
