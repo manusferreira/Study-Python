@@ -71,7 +71,8 @@ class PrograMariaRoteiro:
                 'Exercício de Código | Correlação',
                 'Faça você mesme | Correlação',
                 'Resumo da ópera',
-                ''
-            ]
+                'Feedback'
+            ],
+            ''
 
         }
