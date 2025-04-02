@@ -76,6 +76,7 @@ class PrograMariaRoteiro:
             'Módulo 6': [
                 ' O que é um banco de dados: diferença de bancos relacionais e não relacionais',
                 'Entidades e Relacionamentos',
+                'Exercício de Revisão | Entidades e relacionamentos',
                 ''
             ]
 
