@@ -74,6 +74,7 @@ class PrograMariaRoteiro:
                 'Feedback'
             ],
             'Módulo 6': [
+                ' O que é um banco de dados: diferença de bancos relacionais e não relacionais',
                 ''
             ]
 
