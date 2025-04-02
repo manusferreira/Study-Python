@@ -84,6 +84,8 @@ class PrograMariaRoteiro:
                 'Exercício de Código | Fazendo manipulação DML',
                 'Exercício de Revisão | Fazendo manipulação: DML',
                 'Fazendo consultas em SQL',
+                'Exercício de Código | Fazendo consultas em SQL',
+                ''
             ]
 
         }
