@@ -91,6 +91,7 @@ class PrograMariaRoteiro:
                 ' Conectando SQL com o pandas (parte 3)',
                 'Conectando SQL com o pandas (parte 4)',
                 'Exercício de Código | Conectando SQL com o pandas',
+                'Faça você mesme | Conectando SQL com o pandas',
                 ''
             ]
 
