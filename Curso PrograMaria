@@ -87,6 +87,7 @@ class PrograMariaRoteiro:
                 'Exercício de Código | Fazendo consultas em SQL',
                 'Faça você mesme | Consultas em SQL',
                 'Conectando SQL com o pandas (parte 1)',
+                'Conectando SQL com o pandas (parte 2)',
                 ''
             ]
 
