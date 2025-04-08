@@ -94,7 +94,7 @@ class PrograMariaRoteiro:
                 'Faça você mesme | Conectando SQL com o pandas',
                 'Feedback'
             ],
-            ''
+            'Módulo 7'
             ]
 
         }
