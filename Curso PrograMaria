@@ -97,6 +97,8 @@ class PrograMariaRoteiro:
             'Módulo 7':[
                 'O que é uma boa visualização de dados',
                 'Tipos de gráficos e elementos visuais',
+                'Exercício de Revisão | Gráficos',
+                'Visualização de dados em python (parte 1)',
                 ''
             ]
             ]
